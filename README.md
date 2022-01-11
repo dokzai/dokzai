@@ -8,8 +8,3 @@
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
-
-<details>
-  <summary><b>:telescope: 2021 goals :sparkles:</b></summary>
-  I want to make a little game by doing a game jam!
-</details>
